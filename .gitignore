@@ -1,0 +1,8 @@
+data/*
+!data/.gitkeep
+figures/*
+!figures/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.zip
