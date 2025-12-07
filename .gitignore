@@ -1,8 +1,17 @@
-data/*
-!data/.gitkeep
-figures/*
-!figures/.gitkeep
-.ipynb_checkpoints/
+# Python
 __pycache__/
 *.pyc
-*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/*.csv
+!data/README.md
+
+# OS files
+.DS_Store
+
+# Figures
+figures/*.png
+figures/*.jpg
