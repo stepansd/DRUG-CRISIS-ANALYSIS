@@ -59,7 +59,7 @@ https://www.kaggle.com/datasets/willianoliveiragibin/illicit-drugs
 
 ### 2. Time Series Modelling
 - Stationarity tested (ADF)  
-- ARIMA(1,1,1) built for global mortality  
+- ARIMA(0.2.2) built for global mortality  
 - 10-year forecast with uncertainty bands  
 - Country-level forecast example: United States  
 
